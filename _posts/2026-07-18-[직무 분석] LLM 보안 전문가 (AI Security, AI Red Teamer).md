@@ -1,5 +1,5 @@
 ---
-title: "[직무 분석] LLM 보안 전문가 (AI Security / AI Red Teamer)"
+title: "[직무 분석] LLM 보안 전문가 (AI Security, AI Red Teamer)"
 date: 2026-07-18 12:00:00 +0900
 categories: [직무 분석]
 tags: [보안]
